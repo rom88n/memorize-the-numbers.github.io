@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memorize-the-numbers.github.io/static/css/main.491a8371.css",
+    "main.js": "/memorize-the-numbers.github.io/static/js/main.1cb2b209.js",
+    "static/js/787.84de57b6.chunk.js": "/memorize-the-numbers.github.io/static/js/787.84de57b6.chunk.js",
+    "index.html": "/memorize-the-numbers.github.io/index.html",
+    "main.491a8371.css.map": "/memorize-the-numbers.github.io/static/css/main.491a8371.css.map",
+    "main.1cb2b209.js.map": "/memorize-the-numbers.github.io/static/js/main.1cb2b209.js.map",
+    "787.84de57b6.chunk.js.map": "/memorize-the-numbers.github.io/static/js/787.84de57b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491a8371.css",
+    "static/js/main.1cb2b209.js"
+  ]
+}
